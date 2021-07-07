@@ -1,6 +1,6 @@
 # Squigology Inc.
 
-![Squiggz LOGO](/static/squiologo.png)
+![Squiggz LOGO](/static/squilogo.png)
 
 *Learn the ways of the Squigzz*
 
