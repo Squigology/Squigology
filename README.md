@@ -1,4 +1,4 @@
-# Squigology Inc.
+# [Squigology Inc.](/)
 
 ![Squiggz LOGO](/static/squilogo.png)
 
