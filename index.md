@@ -1,9 +1,5 @@
-# [Squigology Inc.](/)
-
-![Squiggz LOGO](/static/squilogo.png)
-
-*Learn the ways of the Squigzz*
-
-To see the Board of the Squigz, visit the following [page](/bos)
-
-Repo contains files for our [website](/).
+<h1 id="-squigology-inc-"><a href="/">Squigology Inc.</a></h1>
+<p><img src="/static/squilogo.png" alt="Squiggz LOGO"></p>
+<p><em>Learn the ways of the Squigzz</em></p>
+<p>To see the Board of the Squigz, visit the following <a href="/bos">page</a></p>
+<p>Repo contains files for our <a href="/">website</a>.</p>
